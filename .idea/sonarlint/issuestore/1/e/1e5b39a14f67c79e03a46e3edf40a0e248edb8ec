@@ -1,0 +1,22 @@
+
+Fsquid:S2093'"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+?squid:S1148Q"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+isquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(¥±Äü8ýáÀ““-
+Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+dsquid:S2095("MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Ï·×ü
+ksquid:S2095)"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(©ëöüÿÿÿÿ
+Qsquid:UselessImportCheck"-Remove this unused import 'food.StyleOfFood'.(“ß²Ï
+Asquid:S00108,")Either remove or fill this block of code.(ªÌ‡­
+]squid:S2142P"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+tsquid:UselessImportCheck"DRemove this unused import 'java.util.concurrent.ArrayBlockingQueue'.(ÜÙ×Ëúÿÿÿÿ8¼Õ¯ê’-
+?squid:S11482"#Use a logger to log this exception.(Âþÿâûÿÿÿÿ
+W
+squid:S899L":Do something with the "boolean" value returned by "offer".(­ô¬ø8µÂÀ”“-
+osquid:UselessImportCheck"?Remove this unused import 'org.apache.log4j.BasicConfigurator'.(§Ê³âþÿÿÿÿ8§´÷““-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8ôÁÁú’-
+3squid:S1643,"Use a StringBuilder instead.(ªÌ‡­
+rsquid:UselessImportCheck"BRemove this unused import 'org.apache.log4j.PropertyConfigurator'.(ëó°³úÿÿÿÿ8§´÷““-
+?squid:S11488"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+qsquid:UselessImportCheck"ARemove this unused import 'org.apache.log4j.xml.DOMConfigurator'.(î’µŒüÿÿÿÿ8§´÷““-
+nsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(°Õ±®þÿÿÿÿ8à˜æ”“-

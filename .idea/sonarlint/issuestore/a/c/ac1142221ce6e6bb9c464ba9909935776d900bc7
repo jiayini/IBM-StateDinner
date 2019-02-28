@@ -1,0 +1,9 @@
+
+Isquid:S1444"+Make this "public static log4j" field final(­¬•ø8Û¥ı““-
+Ysquid:UselessImportCheck"/Remove this unused import 'thread.ProduceFood'.(ïág8–®õ““-
+Gsquid:S1905")Remove this unnecessary cast to "Logger".(­¬•ø8‚¬ó““-
+]squid:S1118":Add a private constructor to hide the implicit public one.(×µşûÿÿÿÿ8¯Ÿá”“-
+squid:UselessImportCheck"^Remove this unused import 'com.sun.tools.internal.xjc.reader.xmlschema.bindinfo.BIConversion'.(î»˜ûÿÿÿÿ8 ‚à”“-
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(î»˜ûÿÿÿÿ8 ‚à”“-
+†"squid:ClassVariableVisibilityCheck"QMake log4j a static final constant or non-public and provide accessors if needed.(­¬•ø8Û¥ı““-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÔÍÒ¡8âÿ”“-
