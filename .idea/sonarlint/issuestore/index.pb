@@ -19,8 +19,6 @@ F
 src/utils/Mylog4j.java,a/c/ac1142221ce6e6bb9c464ba9909935776d900bc7
 D
 src/thread/Main.java,6/1/61eb67f509257f8ca7d06db4bc0b530a75fd754d
-?
-src/logFile.log,f/1/f1332b27235cdfade694020d23498465976e170e
 =
 src/error.log,0/7/07df8493c60a9da0c618ba317caa625860f43064
 >

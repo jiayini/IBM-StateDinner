@@ -30,7 +30,7 @@ public class ProduceFood implements Runnable {
         String laststr = "";
 
         try {
-            FileInputStream fileInputStream = new FileInputStream("/Users/jiayin/Desktop/Project_Test_2/src/thread/Courses.json");
+            FileInputStream fileInputStream = new FileInputStream("/Users/jiayin/Desktop/IBM-StateBanquet/src/thread/Courses.json");
             InputStreamReader inputStreamReader = new InputStreamReader(fileInputStream, "UTF-8");
             reader = new BufferedReader(inputStreamReader);
 

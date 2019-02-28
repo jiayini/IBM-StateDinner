@@ -12,7 +12,7 @@ public class Mylog4j {
     static {
 
         BasicConfigurator.configure();
-        PropertyConfigurator.configure("/Users/jiayin/Desktop/Project_Test_2/log.properties");
+        PropertyConfigurator.configure("/Users/jiayin/Desktop/IBM-StateBanquet/log.properties");
 //        DOMConfigurator.configure("");
     }
 
